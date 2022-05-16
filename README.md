@@ -1,4 +1,4 @@
-<h1 align="center">{Recipe Page}</h1>
+<h1 align="center">Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -34,8 +34,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 It was a nice experience mixing CSS flexbox and CSS grid together in this cool project. Learned a lot!
 
